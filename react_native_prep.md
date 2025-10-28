@@ -1,4 +1,29 @@
-# ⚡ React Native + Advanced JavaScript Interview Questions
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+  white-space: normal;
+  margin-top: 16px;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+tr:nth-child(even) {
+  background: #f9f9f9;
+}
+code {
+  background: #f3f3f3;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+</style>
+
+# React Native + Advanced JavaScript Interview Questions
 
 | # | Question | Key Idea / Concept |
 |---|-----------|--------------------|
